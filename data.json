@@ -5,7 +5,8 @@
       "Status": "Release",
        "Version":"1.0",
       "Caption": "Connecting WordPress site to Flutter application with Instagram UI",
-      "Profile": "https://s8.uupload.ir/files/photo_2023-07-16_06-32-37_dpbf.jpg",
+      "Profile": "https://s8.uupload.ir/files/ic_launcher_-_copy_ekaj.png",
+      "Banner": "https://s8.uupload.ir/files/photo_2023-07-16_06-32-37_dpbf.jpg",
       "OpenSource": true,
       "Link": "https://github.com/hosivay/insta_wordpress"
     },
@@ -14,7 +15,8 @@
       "Status": "Release",
        "Version":"1.0",
       "Caption": "a Apple Product Shop",
-      "Profile": "https://s8.uupload.ir/files/appleshop_57g7.jpg",
+      "Profile": "https://s8.uupload.ir/files/apple_iyt1.png",
+       "Banner": "https://s8.uupload.ir/files/appleshop_57g7.jpg",
       "OpenSource": true,
       "Link": "https://github.com/hosivay/appleshop"
     },
@@ -24,6 +26,7 @@
       "Version":"1.9",
       "Caption": "A text-based social network",
       "Profile": "https://s6.uupload.ir/files/20220812_180329_0pbz.png",
+      "Banner","",
       "OpenSource": false,
       "Link": ""
     },
@@ -33,6 +36,7 @@
       "Version":"0.9",
       "Caption": "An application to display the top channels of the Soroush Plus messenger",
       "Profile": "https://s6.uupload.ir/files/logonk_dmqv.jpg",
+        "Banner","",
       "OpenSource": false,
       "Link": ""
     }
