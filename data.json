@@ -1,6 +1,16 @@
 {
   "Project": [
     {
+      "Name": "Youtube Clone",
+      "Status": "Release",
+       "Version":"1.0",
+      "Caption": "Clone YT Mobile",
+      "Profile": "https://s8.uupload.ir/files/20230802_113059_xki6.jpg",
+      "Banner": "https://s8.uupload.ir/files/20230801_184447_1olg.jpg",
+      "OpenSource": true,
+      "Link": "https://github.com/hosivay/youtube_clone"
+    },
+    {
       "Name": "Insta_wordpress",
       "Status": "Release",
        "Version":"1.0",
