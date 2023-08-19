@@ -1,6 +1,16 @@
 {
   "Project": [
      {
+      "Name": "News App",
+      "Status": "Beta",
+       "Version":"1.0",
+      "Caption": "",
+      "Profile": "https://s6.uupload.ir/files/20230818_154759_(1)_284p.png",
+      "Banner": "https://s6.uupload.ir/files/20230818_154410_(1)_xxx0.jpg",
+      "OpenSource": true,
+      "Link": "https://github.com/hosivay/news_app"
+    },
+     {
       "Name": "Dr.App",
       "Status": "Beta",
        "Version":"0.8",
