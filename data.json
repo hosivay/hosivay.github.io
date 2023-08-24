@@ -1,20 +1,20 @@
 {
   "Project": [
-     {
+    {
       "Name": "News App",
       "Status": "Beta",
-       "Version":"1.0",
+      "Version": "1.0",
       "Caption": "",
       "Profile": "https://s6.uupload.ir/files/20230818_154759_(1)_284p.png",
       "Banner": "https://s6.uupload.ir/files/20230818_154410_(1)_xxx0.jpg",
       "OpenSource": true,
       "Link": "https://github.com/hosivay/news_app"
     },
-     {
+    {
       "Name": "Dr.App",
       "Status": "Beta",
-       "Version":"0.8",
-      "Caption": "Doctor appointment application project with Flutter \n \nState management: GetX \n Local Storage: GeX Storage \n Architecture: Clean \n Language: Persian, English \n Theme : Light , Dark",
+      "Version": "0.8",
+      "Caption": "Doctor appointment application project with Flutter. State management: GetX. Local Storage: GeX Storage. Architecture: Clean. Language: Persian, English. Theme: Light, Dark",
       "Profile": "https://s6.uupload.ir/files/20230813_195512_w8oa.png",
       "Banner": "https://raw.githubusercontent.com/hosivay/dr_app/main/bg/banner.jpg",
       "OpenSource": true,
@@ -23,7 +23,7 @@
     {
       "Name": "Youtube Clone",
       "Status": "Release",
-       "Version":"1.0",
+      "Version": "1.0",
       "Caption": "The YouTube clone project, the mobile version",
       "Profile": "https://s8.uupload.ir/files/20230802_113059_xki6.jpg",
       "Banner": "https://s8.uupload.ir/files/20230801_184447_1olg.jpg",
@@ -33,7 +33,7 @@
     {
       "Name": "Insta_wordpress",
       "Status": "Release",
-       "Version":"1.0",
+      "Version": "1.0",
       "Caption": "Connecting WordPress site to Flutter application with Instagram UI",
       "Profile": "https://s8.uupload.ir/files/ic_launcher_-_copy_ekaj.png",
       "Banner": "https://s8.uupload.ir/files/photo_2023-07-16_06-32-37_dpbf.jpg",
@@ -43,24 +43,23 @@
     {
       "Name": "Apple Shop",
       "Status": "Release",
-       "Version":"1.0",
+      "Version": "1.0",
       "Caption": "A Flutter application with a completely Cupertino design",
       "Profile": "https://s8.uupload.ir/files/20230624_092212_l8c.jpg",
-       "Banner": "https://s8.uupload.ir/files/appleshop_57g7.jpg",
+      "Banner": "https://s8.uupload.ir/files/appleshop_57g7.jpg",
       "OpenSource": true,
       "Link": "https://github.com/hosivay/appleshop"
     },
     {
       "Name": "FortyEight",
       "Status": "Release",
-      "Version":"1.9",
-      "Caption": "48 Social Network \nAn application built with the Flutter framework, which has the ability to publish text and photo posts, has several themes and two languages, and also has the ability to explore.",
+      "Version": "1.9",
+      "Caption": "48 Social Network. An application built with the Flutter framework, which has the ability to publish text and photo posts, has several themes and two languages, and also has the ability to explore.",
       "Profile": "https://s8.uupload.ir/files/ic_launcher_fq2.png",
-      "Banner":"https://s8.uupload.ir/files/20230707_105158_zmt5.jpg",
+      "Banner": "https://s8.uupload.ir/files/20230707_105158_zmt5.jpg",
       "OpenSource": false,
       "Link": ""
-    },
-    
+    }
   ],
   "Shop": "empty"
 }
