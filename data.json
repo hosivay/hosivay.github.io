@@ -14,7 +14,7 @@
       "Name": "Dr.App",
       "Status": "Beta",
       "Version": "0.8",
-      "Caption": "Doctor appointment application project with Flutter. State management: GetX. Local Storage: GeX Storage. Architecture: Clean. Language: Persian, English. Theme: Light, Dark",
+      "Caption": "Doctor appointment application project with Flutter \n \nState management: GetX \n Local Storage: GeX Storage \n Architecture: Clean \n Language: Persian, English \n Theme : Light , Dark",
       "Profile": "https://s6.uupload.ir/files/20230813_195512_w8oa.png",
       "Banner": "https://raw.githubusercontent.com/hosivay/dr_app/main/bg/banner.jpg",
       "OpenSource": true,
