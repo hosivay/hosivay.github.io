@@ -1,5 +1,15 @@
 {
   "Project": [
+       {
+      "Name": "Pizza Quick",
+      "Status": "Beta",
+      "Version": "0.5",
+      "Caption": "Pizza delivery Application",
+      "Profile": "https://s6.uupload.ir/files/ic_launcher_jmqo.png",
+      "Banner": "https://s6.uupload.ir/files/banner_azb7.jpg",
+      "OpenSource": true,
+      "Link": "https://github.com/hosivay/pizza_quick_app"
+    },
     {
       "Name": "News App",
       "Status": "Beta",
