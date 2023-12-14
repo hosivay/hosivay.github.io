@@ -1,7 +1,7 @@
 {
   "Project": [
        {
-              "Name": "Rooz Nevesht",
+      "Name": "Rooz Nevesht",
       "Status": "Release",
       "Version": "1.0.2",
       "Caption": "",
@@ -19,7 +19,6 @@
       "OpenSource": true,
       "Link": "https://github.com/hosivay/pizza_quick_app"
     },
-    
     {
       "Name": "News App",
       "Status": "Beta",
