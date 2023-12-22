@@ -13,7 +13,7 @@
     },{
       "Name": "Pizza Quick",
       "Status": "Beta",
-      "Version": "0.5",
+      "Version": "1.0.2",
       "Caption": "Pizza delivery Application",
       "Profile": "https://s6.uupload.ir/files/ic_launcher_jmqo.png",
       "Banner": "https://s6.uupload.ir/files/banner_azb7.jpg",
@@ -63,7 +63,7 @@
     {
       "Name": "Apple Shop",
       "Status": "Release",
-      "Version": "1.0",
+      "Version": "1.0.1",
       "Caption": "A Flutter application with a completely Cupertino design",
       "Profile": "https://s8.uupload.ir/files/20230624_092212_l8c.jpg",
       "Banner": "https://s8.uupload.ir/files/appleshop_57g7.jpg",
