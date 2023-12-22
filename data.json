@@ -18,6 +18,7 @@
       "Profile": "https://s6.uupload.ir/files/ic_launcher_jmqo.png",
       "Banner": "https://s6.uupload.ir/files/banner_azb7.jpg",
       "OpenSource": true,
+         "Install":false,
       "Link": "https://github.com/hosivay/pizza_quick_app"
     },
     {
@@ -28,6 +29,7 @@
       "Profile": "https://s6.uupload.ir/files/20230818_154759_(1)_284p.png",
       "Banner": "https://s6.uupload.ir/files/20230818_154410_(1)_xxx0.jpg",
       "OpenSource": true,
+         "Install":false,
       "Link": "https://github.com/hosivay/news_app"
     },
     {
@@ -38,6 +40,7 @@
       "Profile": "https://s6.uupload.ir/files/20230813_195512_w8oa.png",
       "Banner": "https://raw.githubusercontent.com/hosivay/dr_app/main/bg/banner.jpg",
       "OpenSource": true,
+         "Install":false,
       "Link": "https://github.com/hosivay/dr_app"
     },
     {
@@ -48,6 +51,7 @@
       "Profile": "https://s8.uupload.ir/files/20230802_113059_xki6.jpg",
       "Banner": "https://s8.uupload.ir/files/20230801_184447_1olg.jpg",
       "OpenSource": true,
+         "Install":false,
       "Link": "https://github.com/hosivay/youtube_clone"
     },
     {
@@ -58,6 +62,7 @@
       "Profile": "https://s8.uupload.ir/files/ic_launcher_-_copy_ekaj.png",
       "Banner": "https://s8.uupload.ir/files/photo_2023-07-16_06-32-37_dpbf.jpg",
       "OpenSource": true,
+         "Install":false,
       "Link": "https://github.com/hosivay/insta_wordpress"
     },
     {
@@ -68,6 +73,7 @@
       "Profile": "https://s8.uupload.ir/files/20230624_092212_l8c.jpg",
       "Banner": "https://s8.uupload.ir/files/appleshop_57g7.jpg",
       "OpenSource": true,
+         "Install":false,
       "Link": "https://github.com/hosivay/appleshop"
     },
     {
@@ -78,6 +84,7 @@
       "Profile": "https://s8.uupload.ir/files/ic_launcher_fq2.png",
       "Banner": "https://s8.uupload.ir/files/20230707_105158_zmt5.jpg",
       "OpenSource": false,
+         "Install":false,
       "Link": ""
     }
   ],
