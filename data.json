@@ -1,5 +1,16 @@
 {
-  "Project": [
+  "Project": [ 
+    {
+      "Name": "BlackBird",
+      "Status": "Beta",
+      "Version": "0.7",
+      "Caption": "",
+      "Profile": "https://s8.uupload.ir/files/iconapp_a18i.png",
+      "Banner": "https://s8.uupload.ir/files/photo_2024-03-13_00-01-19_551x.jpg",
+      "OpenSource": true,
+      "Link": "https://github.com/hosivay/blackbird",
+      "Install":false
+    },
        {
       "Name": "Rooz Nevesht",
       "Status": "Release",
