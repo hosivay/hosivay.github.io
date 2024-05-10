@@ -1,6 +1,17 @@
 {
   "Project": [ 
     {
+      "Name": "FilmFlex",
+      "Status": "Release",
+      "Version": "1.0",
+      "Caption": "",
+      "Profile": "https://s8.uupload.ir/files/appstore_4riu.png",
+      "Banner": "https://s8.uupload.ir/files/20240509_205517_xh6r.jpg",
+      "OpenSource": true,
+      "Link": "https://github.com/hosivay/filmflex",
+      "Install":false
+    },
+    {
       "Name": "BlackBird",
       "Status": "Beta",
       "Version": "0.7",
