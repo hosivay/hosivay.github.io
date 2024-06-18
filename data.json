@@ -1,6 +1,17 @@
 {
   "Project": [ 
     {
+      "Name": "Rooz Nevesht",
+      "Status": "Release",
+      "Version": "2.0.0",
+      "Caption": "",
+      "Profile": "https://s8.uupload.ir/files/icon_7nwj.png",
+      "Banner": "https://s8.uupload.ir/files/untitled-1_mniu.png",
+      "OpenSource": true,
+      "Link": "https://github.com/hosivay/RoozNeveshtApp",
+      "Install":false
+    },
+    {
       "Name": "FilmFlex",
       "Status": "Release",
       "Version": "1.0",
@@ -23,16 +34,6 @@
       "Install":false
     },
        {
-      "Name": "Rooz Nevesht",
-      "Status": "Release",
-      "Version": "1.0.2",
-      "Caption": "",
-      "Profile": "https://s6.uupload.ir/files/20231013_155130_m8nm.png",
-      "Banner": "https://s6.uupload.ir/files/20231214_130947_b9m4.jpg",
-      "OpenSource": false,
-      "Link": "https://myket.ir/app/com.rn.hosivay.app",
-      "Install":true
-    },{
       "Name": "Pizza Quick",
       "Status": "Beta",
       "Version": "1.0.2",
