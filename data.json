@@ -1,5 +1,16 @@
 {
   "Project": [ 
+      {
+      "Name": "Yara",
+      "Status": "Alpha",
+      "Version": "1.0.0",
+      "Caption": "",
+      "Profile": "https://s6.uupload.ir/files/untitled-1_67yc.png",
+      "Banner": "https://s6.uupload.ir/files/yara_w2a0.png",
+      "OpenSource": false,
+      "Link": "",
+      "Install":false
+    },
     {
       "Name": "Rooz Nevesht",
       "Status": "Release",
